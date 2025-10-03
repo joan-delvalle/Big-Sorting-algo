@@ -1,1 +1,1 @@
-# Big-Sorting-algo
+# Big-Sorting-algo This function sorts the numbers as strings because they can be too large for normal integer types. It first compares their lengths (more digits means a bigger number) and, if the lengths are equal, compares them lexicographically.
